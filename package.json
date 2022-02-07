@@ -13,5 +13,10 @@
 	},
 	"author": "Saliou Seck",
 	"description": "This is my first project on freecampcode",
-  "keywords": ["freecampcode", "replit", "package.json","learning-course"]
+	"keywords": [
+		"freecodecamp",
+		"replit",
+		"package.json",
+		"learning-course"
+	]
 }
